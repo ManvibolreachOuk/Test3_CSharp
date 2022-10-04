@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.AssemblyInfo.cs
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\bin\Debug\net5.0\301224112 - Test 3.exe
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\bin\Debug\net5.0\301224112 - Test 3.deps.json
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\bin\Debug\net5.0\301224112 - Test 3.runtimeconfig.json
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\bin\Debug\net5.0\301224112 - Test 3.runtimeconfig.dev.json
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\bin\Debug\net5.0\301224112 - Test 3.dll
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\bin\Debug\net5.0\301224112 - Test 3.pdb
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.dll
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\refint\301224112 - Test 3.dll
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.pdb
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\301224112 - Test 3.genruntimeconfig.cache
+C:\Users\User\source\repos\301224112 - Test 3\301224112 - Test 3\obj\Debug\net5.0\ref\301224112 - Test 3.dll
